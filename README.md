@@ -21,8 +21,6 @@ Selain itu, pihak KFB juga akan memberikan potongan harga sebesar 25.000 untuk s
 Boleh menggunakan percabangan apa saja asal dengan output sama seperti diatas
 terima kasih, selamat mengerjakan :)
 
-#CASE 3 
-
 3.Ada sebuah program yang menentukan masuk universitas ternama. Jika memenuhi syarat akan masuk universitas tersebut, yaitu : UI, UGM, dan U.ITB. ketentuan tersebut memiliki karakter tersendiri yaitu memiliki nilai rata-rata semester untuk masuk universitas tersebut 
 Ket: 
 UI = 90
